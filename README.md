@@ -3,7 +3,7 @@
 **ML Assignment 2 · M.Tech (AIML), BITS WILP**
 **Student:** Ashwani · **BITS ID:** 2026AK05705
 
-**Live app:** <STREAMLIT_APP_LINK>
+**Live app:** https://credit-default-bits2026ak05705.streamlit.app/
 
 ---
 
